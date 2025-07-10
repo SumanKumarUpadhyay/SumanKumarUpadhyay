@@ -1,164 +1,17 @@
-<h1 align="center">Hi 👋, I'm SUMAN KUMAR UPADHYAY</h1>
-<h3 align="center">A passionate AI and ML from India</h3>
+## 
+<h1 align="center">Hi 👋, I'm SUMAN KUMAR</h1>
+<h3 align="center">A passionate AI/ML from India</h3>
+<h3 align="center">A passionate CS undergrad.</h3>
+<img align = "right" width"400" src=140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
-<h1 align="center"> Code Connected... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="65" alt="Animated hello Gif"></h1>
+- 🔭 I’m currently pursuing B.Tech(H) in CSE ( AI ) from **UTD, CSVTU Bhilai**
 
-<p align="center">
-  <a href = "https://madhurimarawat.github.io/NameBlock-Designer/"><img src = "https://github.com/Revu-15/Revu-15/blob/main-HEY%2C-I-am-Revanth-Reddy/POLAMREDDY%20REVANTH%20REDDY_NameBlock%20(1).png" title = "NameBlock" alt = "NameBlock"></a>
-</p>
+- 🌱 I’m currently learning **AI/ML**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/suman-kumar-9754752ab/](https://www.linkedin.com/in/suman-kumar-9754752ab/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumankumarpanditpur540@gmail.com) 
 
-<p align="center">
-   
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif" height="250" width="250" title="Professional Male Programmer" alt="Professional Male Programmer">
-
-</p>
-
-
-
-### 👨‍💻 About Me :
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Science+Enthusiast+🇮🇳)](https://git.io/typing-svg)
-
-- 👋 I’m POLAMREDDY REVANTH REDDY :student:<br><br>
-- 👀 I’m deeply interested in the world of data science and its applications.<br><br>
-<img src="https://cdn.dribbble.com/users/107759/screenshots/2835499/data_love.gif" height = 100><br>
-- 🌱 Currently exploring and learning various aspects of data science.<br><br>
-- 🐍 Proficient in Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python language" width="35" height="35"><br><br>
-- 💬 Ask me about data analysis and machine learning concepts! 😀<br><br>
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Revanth-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/)
-<a href ="mailto:"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
-- 😄 Pronouns: He/Him.<br><br>
-- ⚡ Fun fact: I enjoy problem-solving and exploring new datasets in my free time! <br><br>
-- 💡 Always open to discussing new ideas and collaborations in the data science domain! 📊✨
-
-<details open>
-<summary><h2> 🛠  Languages and Tools :</h2></summary>
-<br>
-Click on the icon to see the associated repository (if available)
-<br>
-
-### 📚  Languages :
-<br>
-
-<p>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"></a>
-</p>
-
-### 📑  Frameworks & Libraries :
-<br>
-
-<p>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/madhurimarawat/madhurimarawat/assets/105432776/ec9a7987-9e5a-40ec-a806-66cdf2a9235d" title="Matplotlib" alt="Matplotlib" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" title="Seaborn" alt="Seaborn" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"></a>
-</p>
-
-### 💻  Databases :
-<br>
-
-<p>
-    <a href="https://github.com/Revu-15"><img src="https://raw.githubusercontent.com/madhurimarawat/Badger-Icons/main/assets/databases/mysql/concept-logo-1-transparent.png" title="MySQL" alt="MySQL" width="40" height="40"> </a>
-    <a href="https://github.com/Revu-15"><img src="https://raw.githubusercontent.com/Revu-15/Weather-Dashboard/main/assets/mongodb-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"> </a>
-</p>
-
-### 🌟   Tools and Technologies :
-<br>
-
-<p>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"></a>
-    <a href="https://github.com/Revu-15"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"> </a>
-</p>
-
-</details>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Revu-15&label=Profile%20views&color=0e75b6&style=flat" alt="Revu-15" />
-</p>
-
-- 🔭 I’m currently working on **PRIME MEIDEN MEIDENSHA GROUP OF COMPAINES**
-
-- 🌱 I’m currently learning **Machine Learning Algorithms and Basic of JAVA**
-
-- 👨‍💻 All of my projects are available at: [GitHub Portfolio](https://github.com/Revu-15)
-
-- 📝 I regularly write project documentation and contribute to open-source repositories
-
-- 💬 Ask me about **Python, NumPy, Pandas, Machine Learning,Java**
-
-- 📫 Reach me at: **polamreddyrevanth.82@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
----
-
-## 🎓 Certification
-
-**Certificate Name:** `AWS tranining certification,MATHWORKS,Python programming cisco networking,data analytics using Excel`
-
-**Certificate URL:** 🔗 [View Certificate Here](https://github.com/Revu-15/Certifications-Achievements)
-
-
----
-
-
-
-- ⚡ Fun fact: **I love turning data into stories! 📊**
-- ⚡ Fun fact: **Data Never Lies! 📊**
-
-
----
-
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/polamreddy-revanth-reedy-30b147292/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:polamreddyrevanth.82@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerranker)](https://www.hackerrank.com/profile/polamreddyrevan1)
-
-
-
----
-
-## Languages and Tools:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revu-15&show_icons=true&locale=en" alt="Revu-15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Revu-15&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Revu-15" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revu-15&theme=dark&background=000000" alt="Revu-15" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
